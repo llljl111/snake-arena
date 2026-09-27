@@ -1,0 +1,16 @@
+{
+  "name": "snake-arena",
+  "version": "1.0.0",
+  "description": "多人网页贪吃蛇大作战（单文件server.js，Socket.IO）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.8.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
